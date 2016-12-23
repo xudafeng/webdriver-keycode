@@ -1,6 +1,6 @@
 {
   "name": "webdriver-keycode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mapping between PUA and key for webdriver",
   "keywords": [
     "webdriver",
@@ -9,7 +9,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/xudafeng/webdriver-keycode.git"
+    "url": "git://github.com/macacajs/webdriver-keycode.git"
   },
   "dependencies": {
   },
@@ -28,9 +28,6 @@
   "pre-commit": [
     "jshint"
   ],
-  "homepage": "https://github.com/xudafeng/webdriver-keycode",
-  "author": "xudafeng",
-  "email": "xudafeng@126.com",
-  "blog": "http://xdf.me",
+  "homepage": "https://github.com/macacajs/webdriver-keycode",
   "license": "MIT"
 }
