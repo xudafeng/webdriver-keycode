@@ -17,6 +17,7 @@ var keycode = require('..');
 
 describe('test', function() {
   it('should be ok', function() {
+    console.log(keycode);
     keycode.should.be.ok();
   });
 });
