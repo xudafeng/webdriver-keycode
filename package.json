@@ -1,6 +1,6 @@
 {
   "name": "webdriver-keycode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "mapping between PUA and key for webdriver",
   "keywords": [
     "webdriver",
