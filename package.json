@@ -7,9 +7,13 @@
     "keycode"
   ],
   "main": "index.js",
+  "files": [
+    "index.js",
+    "lib/*.js"
+  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/macacajs/webdriver-keycode.git"
+    "url": "git://github.com/xudafeng/webdriver-keycode.git"
   },
   "dependencies": {},
   "devDependencies": {
@@ -22,8 +26,8 @@
     "should": "*"
   },
   "scripts": {
-    "test": "make test",
-    "jshint": "make jshint",
+    "test": "mocha",
+    "jshint": "jshint",
     "contributor": "git-contributor"
   },
   "pre-commit": [
