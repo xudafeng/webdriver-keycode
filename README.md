@@ -25,6 +25,18 @@
 $ npm i webdriver-keycode --save-dev
 ```
 
+<!-- GITCONTRIBUTOR_START -->
+
+## Contributors
+
+|[<img src="https://avatars.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars.githubusercontent.com/u/4576123?v=4" width="100px;"/><br/><sub><b>CodeToSurvive1</b></sub>](https://github.com/CodeToSurvive1)<br/>|[<img src="https://avatars.githubusercontent.com/u/62272417?v=4" width="100px;"/><br/><sub><b>itestauipi</b></sub>](https://github.com/itestauipi)<br/>|
+| :---: | :---: | :---: |
+
+
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Sun Jul 18 2021 11:35:13 GMT+0800`.
+
+<!-- GITCONTRIBUTOR_END -->
+
 ## License
 
 The MIT License (MIT)
