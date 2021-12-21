@@ -17,13 +17,10 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "co-mocha": "*",
     "git-contributor": "1",
-    "istanbul": "*",
     "jshint": "*",
     "mocha": "*",
-    "pre-commit": "1.1.1",
-    "should": "*"
+    "pre-commit": "1.1.1"
   },
   "scripts": {
     "test": "mocha",
